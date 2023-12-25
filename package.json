@@ -1,0 +1,23 @@
+{
+  "name": "validation_group",
+  "version": "1.0.0",
+  "description": "一个用于校验JavaScript对象属性值的库，支持依赖关系",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wyf-v/validation_group.git"
+  },
+  "keywords": [
+    "validation",
+    "dependency"
+  ],
+  "author": "wyf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyf-v/validation_group/issues"
+  },
+  "homepage": "https://github.com/wyf-v/validation_group#readme"
+}
